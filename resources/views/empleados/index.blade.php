@@ -20,6 +20,7 @@
 
 <a href="{{url('/empleados/create')}}" class="btn btn-success">Agregar empleado</a>
 <br>
+hola
 <br>
 <table id="empleados1" class="table table-striped table-striped table-bordered table-hover shadow-lg mt-4">
 	<thead class="bg-primary text-white">
